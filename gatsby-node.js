@@ -22,6 +22,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
 				allRandomUser(limit: 1000) {
 					edges {
 						node {
+							id
 							nat
 							name {
 								first
