@@ -1,13 +1,10 @@
-# gatsby-starter-default
-The default Gatsby starter
+# gatsby-source-api-test
+Gatsby site with a local plugin so I can get better at pulling in data from a 3rd party API at build time.
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
+For the data source I'm using the [Random User Generator](https://randomuser.me/).
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
+Running this site is just like any other Gatsby site:
 ```
-gatsby new gatsby-example-site
+yarn develop
 ```
 
-## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
