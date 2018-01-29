@@ -8,3 +8,6 @@ Running this site is just like any other Gatsby site:
 yarn develop
 ```
 
+Code taken from [gatsby-source-medium](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-source-medium) and
+some implmentation based on that from
+[the Gatsby "using Contentful" example](https://github.com/gatsbyjs/gatsby/tree/master/examples/using-contentful).
